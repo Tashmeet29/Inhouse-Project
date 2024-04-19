@@ -1,0 +1,63 @@
+/* Dashboard.css */
+
+.dashboard-container {
+    display: flex;
+    height: 100%; /* Make the container take full height */
+  }
+  
+  .parameters-container {
+    width: 200px;
+    padding: 10px;
+    border-right: 2px solid #3498db;
+    height: 100%; /* Make the parameters container take full height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .parameters-heading {
+    margin-bottom: 10px;
+  }
+  
+  .parameters-list {
+    padding: 0;
+    width: 100%; /* Make the parameter list take full width */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .parameter-item {
+    margin-bottom: 8px;
+  }
+  
+  .page-container {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .students-heading {
+    margin-bottom: 10px;
+  }
+  
+  .data-grid-container {
+    border: 2px solid #3498db;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  
+  .view-btn {
+    border: none;
+    background: transparent;
+    color: #00c100;
+    border-radius: 10px;
+    padding: 4px;
+    font-weight: 600;
+    font-size: 15px;
+  }
+  
+  .view-btn:hover {
+    cursor: pointer;
+  }
+  /* Add more styles as needed */
+  
