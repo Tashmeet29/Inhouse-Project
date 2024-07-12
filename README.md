@@ -1,4 +1,29 @@
-# Getting Started with Create React App
+# Notable Outgoing Student
+### This project includes a form for taking information of students, a dashboard representing the top 10 students who are all-rounders in all activities, and a visualization using PowerBI.
+
+## This is figma design before design the web application.
+
+![image](https://github.com/user-attachments/assets/6cc1b604-019f-4f61-8f85-ae8518fc9d46)
+
+## Form for Taking Information of Students
+
+This form allows users to input various details of students which are used to assess their performance.
+
+![image](https://github.com/user-attachments/assets/17b6f075-e6bc-445d-9a56-4b8665962eb5)
+
+## Dashboard for Top 10 All-Rounder Students
+
+The dashboard provides a visual representation with the top 10 students who excel in all activities.
+
+![image](https://github.com/user-attachments/assets/792049f0-7c52-4408-8fc0-c2742bab1645)
+
+## Visualization Using PowerBI
+
+PowerBI is used to create comprehensive visualizations of the data collected from the students' information and activities.
+
+![image](https://github.com/user-attachments/assets/77bbc31c-cdec-43bc-88ba-cf4a44452167)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
